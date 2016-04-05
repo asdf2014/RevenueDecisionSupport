@@ -11,13 +11,19 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 
-/out
-/out/*
-*/out/*
-
+# Maven
 /target
 /target/*
+*/target/
 */target/*
 
-/.idea
-/.idea/*
+# Build
+/out
+/out/*
+*/out/
+*/out/*
+
+# Project Files
+**/*.iml
+.idea/*
+.idea/.name
