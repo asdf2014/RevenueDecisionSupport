@@ -1,8 +1,0 @@
-<property>
-    <name>hive.metastore.local</name>
-    <value>false</value>
-</property>
-<property>
-    <name>hive.metastore.uris</name>
-    <value>thrift://revenue01:9083</value>
-</property>

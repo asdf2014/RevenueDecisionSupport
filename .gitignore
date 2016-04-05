@@ -12,4 +12,12 @@
 hs_err_pid*
 
 /out
+/out/*
+*/out/*
+
 /target
+/target/*
+*/target/*
+
+/.idea
+/.idea/*
