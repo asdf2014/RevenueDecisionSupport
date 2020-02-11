@@ -65,7 +65,7 @@
         <commons.io.version>2.4</commons.io.version>
         <commons.codec.version>1.10</commons.codec.version>
 
-        <hive.version>1.2.1</hive.version>
+        <hive.version>3.1.2</hive.version>
     </properties>
 
     <dependencies>
