@@ -26,7 +26,7 @@
         <!-- junit -->
         <junit.version>4.13.1</junit.version>
 
-        <jackson.core.version>2.10.2</jackson.core.version>
+        <jackson.core.version>2.12.1</jackson.core.version>
 
         <!-- spring -->
         <spring.version>5.2.3.RELEASE</spring.version>
